@@ -183,14 +183,14 @@ img {
 
 .showcase h1{
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 500;
     letter-spacing: -1px;
     text-shadow: 1px 1px 4px #313131;
 }
 
 .showcase h3 {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: 400;
     text-shadow: 1px 1px 7px #313131;   
 }
 
@@ -210,7 +210,7 @@ img {
 .showcase p {
     margin-bottom: 20px;
     color: #fff;
-    font-weight: bold;
+   
     font-size: 22px;
     text-shadow: 1px 1px 4px #313131;
 
@@ -281,16 +281,18 @@ img {
 .stats-heading {
     max-width: 650px;
     margin: auto;
+    font-weight: 400;
     color: var(--secondary-color);
 }
 
 .stats .grid h3 {
     font-size: 35px;
+    font-weight: 400;
 }
 
 .stats .grid p {
     font-size: 20px;
-    font-weight: bold;
+    
 }
 
 /* Cli */
